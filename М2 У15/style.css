@@ -1,0 +1,18 @@
+
+p.text--bold {
+  border: 2px dashed chocolate;
+  color: crimson;
+  background-color: black;
+}
+
+.parent .child { 
+  color: darkorchid;
+}
+
+.child {  
+  color: blue;
+}
+
+[href="#blog"] {
+  color: red;
+}
