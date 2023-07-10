@@ -1,0 +1,16 @@
+/* em, rem, %, vh, vw, vmin, vmax */
+.font {
+  font-size: 3rem;
+}
+.font__size-1 {
+  font-size: 3rem;
+  line-height: 200%;
+}
+
+.font__size-2 {
+  font-size: 3rem;
+}
+
+.font__size-3 {
+  font-size: 3rem;
+} 
