@@ -9,10 +9,6 @@ p.text--bold {
   color: darkorchid;
 }
 
-.child {  
-  color: blue;
-}
-
 [href="#blog"] {
   color: red;
 }
