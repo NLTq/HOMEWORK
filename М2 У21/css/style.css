@@ -1,0 +1,18 @@
+.text-0 {
+  font-family: 'Marck Script';
+  font-weight: 400;
+  font-style: normal;
+}
+
+.text-1 {
+  font-family: 'Martian Mono', monospace;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.text-2 {
+  font-family: 'Pacifico';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 32px;
+}

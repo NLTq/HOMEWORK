@@ -1,0 +1,70 @@
+/* .content-1__block {
+  box-sizing: border-box;
+  background-color: rgb(190, 160, 160);
+  padding: 50px 150px 100px 10px;
+  padding: 50px-top 100px-right 150px-bottom 10px-left;
+  padding: 50px-top&bottom 150px-right&left;
+  margin: 150px;
+} */
+
+/* .content-1__image {
+  padding: 30px;
+  width: 400px;
+  margin: 15px;
+} */
+
+/* .content-2__block {
+  width: 200px;
+  height: 50px;
+  min-width: 300px;
+  max-width: 700px;
+  min-height: 300px;
+  max-height: 700px;
+  background-color: darkorange;
+  overflow: auto;
+  display: grid;
+} */
+
+/* .content-2__inline {
+  width: 333px;
+  height: 333px; -ne rabotaet
+} */
+
+/* .content-2__inline {
+  width: 333px;
+  height: 333px;  
+} */
+
+/* .content-2__image {
+  min-width: 400px;
+  max-width: 700px;
+  min-height: 400px;
+  max-height: 700px;
+} */
+
+/* .content-3__block {
+  margin: 50px;
+  border: 1px dashed chocolate;
+  border-width: 6px;
+  border-style: dashed;
+  border-color: darksalmon;
+  border-bottom: 2px dashed red;
+  border-top: 3px solid blueviolet;
+  border-left: 1px groove #000;
+  box-shadow: 1px -61px 50px 28px rebeccapurple;
+} */
+
+/* .content-3__inline {
+  opacity: 0.4;
+  visibility: visible;
+} */
+
+.qwerty-1__block {
+  padding: 25px 25px 0 25px;
+  height: 100px;
+  max-height: 50vh;
+  max-width: 50vw;
+  overflow: auto;
+}
+
+
