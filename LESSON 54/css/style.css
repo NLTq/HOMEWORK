@@ -1,0 +1,38 @@
+body {
+  background-color: #000;
+}
+
+.text {
+  color: #fff;
+}
+
+.elements__rectangle {
+  min-height: 100px;
+  width: 50vw;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.elements__circle {
+  width: 100px;
+  height: 100px;
+  background-color: #b30f0f;
+  border-radius: 100%;
+}
+
+/* .elements {
+  position: relative;
+} */
+
+.elements__rectangle {
+  position: fixed;
+  right: 50px;
+  bottom: 100px;
+}
+
+.elements__circle {
+  position: relative;
+  left: 50px;
+  bottom: 25px;
+}
+
